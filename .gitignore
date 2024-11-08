@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.sqlite3
+db.sqlite3
+/media/
+staticfiles/
